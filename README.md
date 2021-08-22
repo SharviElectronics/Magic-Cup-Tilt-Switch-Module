@@ -10,6 +10,7 @@ G: GND
 S:  Arduino pin 8
 L: Arduino pin 9
 
+
 Pin Connection with Node MCU:
 Connect G to a GND port of your NodeMCU
 Connect + to a 3.3v port of your NodeMCU
