@@ -26,3 +26,5 @@ Connect S to a digital port on your NodeMCU (in my example port D3)
 
 Connect L to a digital port on your NodeMCU (in my example port D5)
 
+
+You buy here: https://sharvielectronics.com/product/magic-cup-tilt-switch-module/
